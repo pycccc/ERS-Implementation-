@@ -1,5 +1,4 @@
 # ERS-Implementation-
-ERS Implementation Using ICMP
 
 This project demonstrates the Expanding Ring Search (ERS) technique, a controlled flooding method often used in reactive routing protocols. The implementation uses ICMP messages to trace routers along a network path, mimicking functionality similar to traceroute. 
 
